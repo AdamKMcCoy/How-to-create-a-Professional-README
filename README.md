@@ -1,5 +1,5 @@
 
-# AdamMcCou
+# AdamMcCoy
 
 ## Description 
 Node.js Challenge Professional README Generator
