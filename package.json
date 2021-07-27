@@ -1,0 +1,23 @@
+{
+  "name": "fuzzy-spoon",
+  "version": "1.0.0",
+  "description": "[How to create a Professional README](./readme-guide.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daniel lewis",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotdlew/fuzzy-spoon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dotdlew/fuzzy-spoon/issues"
+  },
+  "homepage": "https://github.com/dotdlew/fuzzy-spoon#readme"
+}
