@@ -14,10 +14,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dotdlew/fuzzy-spoon.git"
+    "url": "https://github.com/AdamKMcCoy/How-to-create-a-Professional-README"
   },
   "bugs": {
-    "url": "https://github.com/dotdlew/fuzzy-spoon/issues"
+    "url": "https://github.com/AdamKMcCoy/How-to-create-a-Professional-README"
   },
-  "homepage": "https://github.com/dotdlew/fuzzy-spoon#readme"
+  "homepage": "https://github.com/AdamKMcCoy/How-to-create-a-Professional-README/blob/main/readme-guide.md"
 }
