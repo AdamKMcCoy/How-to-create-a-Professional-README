@@ -1,5 +1,5 @@
 
-# fuzzy-spoon
+# AdamMcCou
 
 ## Description 
 Node.js Challenge Professional README Generator
@@ -18,20 +18,19 @@ download the repository; npm install; node index;
 used for generating a decent looking README
 
 ## License
-1
+N/A
 
 ## Credits
-undefined, undefined
+N/A
 
 ## Contributing
-clone my repo and issue pull requests
+dont contribute
 
 ## Tests
 clone my repo and test with input
 
 ## Questions
-Please direct your questions to my email
-undefined
+dont have questions
 
-Made with Fuzzy-Spoon README generator
+Made with AdamMcCoy README generator
     
